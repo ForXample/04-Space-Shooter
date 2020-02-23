@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/sfx_twoTone.ogg-ee2780848fad0d3fa7f338e8c6203490.oggstr"
+
+[deps]
+
+source_file="res://Kenney Sprite/Godot Templates/Bonus/sfx_twoTone.ogg"
+dest_files=[ "res://.import/sfx_twoTone.ogg-ee2780848fad0d3fa7f338e8c6203490.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

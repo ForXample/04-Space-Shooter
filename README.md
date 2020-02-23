@@ -1,2 +1,2 @@
-# 04-Space-Shooter
-Zixi liu; C220
+# Project-Template-Godot
+A default Godot project template for MSCH-C220
